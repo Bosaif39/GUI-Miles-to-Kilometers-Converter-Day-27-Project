@@ -13,7 +13,7 @@ This is a simple GUI-based application built using Tkinter in Python. It allows 
 
 ## **Example:**
 
-![alt text](https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/D_27.png?token=GHSAT0AAAAAAC6BJ7JZSNZSTKQCLYREKM62Z5SHRHA)
+![alt text](https://raw.githubusercontent.com/Bosaif39/example-pics/refs/heads/main/D_27.png?token=GHSAT0AAAAAADDL7KRBOY34V2SIQ6ESS3HO2AZUQOQ)
 
 ## **Requirements:**
 - Python 3.x
