@@ -17,6 +17,6 @@ This is a simple GUI-based application built using Tkinter in Python. It allows 
 
 ## **Requirements:**
 - Python 3.x
-- Tkinter (comes pre-installed with Python)
+- `Tkinter` (comes pre-installed with Python)
 
 
